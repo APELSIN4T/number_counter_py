@@ -4,3 +4,5 @@ This python file was created for those who want to see/use/learn how to work wit
 Данный python файл был создан для тех, кто хочет посмотреть/воспользоваться/изучить работу со строкой. Эта программа умеет считать длину первого найденного числа; Посчитать длину самого длинного числа в строке
 
 Изменяйте/дополняйте/пользуйтесь | Change/supplement/use
+
+![image](https://user-images.githubusercontent.com/45320521/159766709-4debc682-2023-4287-a33f-08df65471a4d.png)
